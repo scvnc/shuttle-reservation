@@ -6,8 +6,6 @@ if (module && module.exports) {
     global = window;
 }
 
-
-
 class RouteInfo {
 
   constructor (routes) {
